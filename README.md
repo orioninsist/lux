@@ -1,6 +1,6 @@
 <h1 align="center">Lux</h1>
 
-<p align="center"><i>Let there be Lux!</i></p>
+<p align="center"><i>Let there be Lux</i></p>
 
 <div align="center">
   <a href="https://codecov.io/gh/iawia002/lux">
